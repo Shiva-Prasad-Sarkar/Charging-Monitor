@@ -1,6 +1,8 @@
 # Charging-Monitor
 1️⃣ Install Dependencies
+
 Open Command Prompt and install the required package:
+
 pip install psutil plyer
 
 2️⃣ Save the Python Script
